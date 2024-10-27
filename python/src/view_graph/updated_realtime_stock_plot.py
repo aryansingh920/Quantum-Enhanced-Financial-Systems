@@ -91,6 +91,7 @@ async def fetch_stock_data():
 def update_plot(frame):
     ax.clear()
     ax.plot(times, prices, label="Real-Time Price", color='b')
+    # ax.fill_between(times, prices, color='blue', alpha=0.1)
     ax.set_title("Real-Time Stock Price of AAPL")
     ax.set_xlabel("Time")
     ax.set_ylabel("Price ($)")

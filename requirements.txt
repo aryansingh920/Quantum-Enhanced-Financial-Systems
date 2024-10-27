@@ -1,0 +1,13 @@
+flask 
+websockets
+matplotlib
+pandas
+
+
+
+qiskit
+# qiskit-machine-learning
+# qiskit-optimization
+# qiskit-finance
+# qiskit-nature
+# qiskit-aer
