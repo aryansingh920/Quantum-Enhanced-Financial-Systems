@@ -1,470 +1,470 @@
 [
     {
-        "date": "2024-10-26",
+        "date": "2024-10-31",
         "symbol": "AAPL",
-        "open_price": 148.87,
-        "high_price": 157.88,
-        "low_price": 141.57,
-        "close_price": 142.26,
-        "volume": 2962
+        "open_price": 145.71,
+        "high_price": 150.83,
+        "low_price": 142.29,
+        "close_price": 143.61,
+        "volume": 3161
     },
     {
-        "date": "2024-10-19",
+        "date": "2024-10-24",
         "symbol": "AAPL",
-        "open_price": 142.13,
-        "high_price": 147.9,
-        "low_price": 138.16,
-        "close_price": 141.22,
-        "volume": 9792
+        "open_price": 141.78,
+        "high_price": 143.28,
+        "low_price": 134.42,
+        "close_price": 136.29,
+        "volume": 4703
     },
     {
-        "date": "2024-10-12",
+        "date": "2024-10-17",
         "symbol": "AAPL",
-        "open_price": 145.24,
-        "high_price": 153.81,
-        "low_price": 139.08,
-        "close_price": 141.16,
-        "volume": 7799
+        "open_price": 138.06,
+        "high_price": 138.11,
+        "low_price": 133.19,
+        "close_price": 136.87,
+        "volume": 9989
     },
     {
-        "date": "2024-10-05",
+        "date": "2024-10-10",
         "symbol": "AAPL",
-        "open_price": 137.11,
-        "high_price": 145.87,
-        "low_price": 130.8,
-        "close_price": 133.91,
-        "volume": 1493
+        "open_price": 135.45,
+        "high_price": 141.61,
+        "low_price": 132.65,
+        "close_price": 136.77,
+        "volume": 8557
     },
     {
-        "date": "2024-09-28",
+        "date": "2024-10-03",
         "symbol": "AAPL",
-        "open_price": 132.89,
-        "high_price": 137.43,
-        "low_price": 123.75,
-        "close_price": 125.07,
-        "volume": 5264
+        "open_price": 135.3,
+        "high_price": 135.46,
+        "low_price": 130.05,
+        "close_price": 133.98,
+        "volume": 2295
     },
     {
-        "date": "2024-09-21",
+        "date": "2024-09-26",
         "symbol": "AAPL",
-        "open_price": 126.3,
-        "high_price": 129.58,
-        "low_price": 121.35,
-        "close_price": 122.1,
-        "volume": 3381
+        "open_price": 137.85,
+        "high_price": 144.49,
+        "low_price": 132.94,
+        "close_price": 133.73,
+        "volume": 5613
     },
     {
-        "date": "2024-09-14",
+        "date": "2024-09-19",
         "symbol": "AAPL",
-        "open_price": 121.54,
-        "high_price": 124.42,
-        "low_price": 117.79,
-        "close_price": 121.02,
-        "volume": 9621
+        "open_price": 137.06,
+        "high_price": 139.25,
+        "low_price": 131.36,
+        "close_price": 135.15,
+        "volume": 8584
     },
     {
-        "date": "2024-09-07",
+        "date": "2024-09-12",
         "symbol": "AAPL",
-        "open_price": 119.07,
-        "high_price": 120.25,
-        "low_price": 116.88,
-        "close_price": 118.57,
-        "volume": 9921
+        "open_price": 137.67,
+        "high_price": 142.24,
+        "low_price": 127.77,
+        "close_price": 128.52,
+        "volume": 6586
     },
     {
-        "date": "2024-08-31",
+        "date": "2024-09-05",
         "symbol": "AAPL",
-        "open_price": 122.68,
-        "high_price": 123.13,
-        "low_price": 113.63,
-        "close_price": 115.91,
-        "volume": 4842
+        "open_price": 128.99,
+        "high_price": 129.26,
+        "low_price": 123.85,
+        "close_price": 127.91,
+        "volume": 8168
     },
     {
-        "date": "2024-08-24",
+        "date": "2024-08-29",
         "symbol": "AAPL",
-        "open_price": 114.08,
-        "high_price": 117.1,
-        "low_price": 111.35,
-        "close_price": 113.42,
-        "volume": 9830
+        "open_price": 127.89,
+        "high_price": 131.23,
+        "low_price": 125.34,
+        "close_price": 127.97,
+        "volume": 6477
     },
     {
-        "date": "2024-08-17",
+        "date": "2024-08-22",
         "symbol": "AAPL",
-        "open_price": 109.72,
-        "high_price": 112.93,
-        "low_price": 105.15,
-        "close_price": 106.32,
-        "volume": 9780
+        "open_price": 125.28,
+        "high_price": 127.41,
+        "low_price": 124.8,
+        "close_price": 126.95,
+        "volume": 4150
     },
     {
-        "date": "2024-08-10",
+        "date": "2024-08-15",
         "symbol": "AAPL",
-        "open_price": 109.62,
-        "high_price": 112.64,
-        "low_price": 106.77,
-        "close_price": 109.96,
-        "volume": 3175
+        "open_price": 128.13,
+        "high_price": 132.02,
+        "low_price": 121.02,
+        "close_price": 121.4,
+        "volume": 3315
     },
     {
-        "date": "2024-08-03",
+        "date": "2024-08-08",
         "symbol": "AAPL",
-        "open_price": 112.38,
-        "high_price": 116.89,
-        "low_price": 109.56,
-        "close_price": 109.61,
-        "volume": 9362
+        "open_price": 117.07,
+        "high_price": 118.48,
+        "low_price": 113.66,
+        "close_price": 113.84,
+        "volume": 2817
     },
     {
-        "date": "2024-07-27",
+        "date": "2024-08-01",
         "symbol": "AAPL",
-        "open_price": 110.49,
-        "high_price": 112.42,
-        "low_price": 108.11,
-        "close_price": 111.56,
-        "volume": 9091
+        "open_price": 111.21,
+        "high_price": 120.71,
+        "low_price": 103.66,
+        "close_price": 107.5,
+        "volume": 7723
     },
     {
-        "date": "2024-07-20",
+        "date": "2024-07-25",
         "symbol": "AAPL",
-        "open_price": 106.99,
-        "high_price": 110.12,
-        "low_price": 100.72,
-        "close_price": 103.81,
-        "volume": 1554
+        "open_price": 107.71,
+        "high_price": 112.72,
+        "low_price": 101.82,
+        "close_price": 106.47,
+        "volume": 2022
     },
     {
-        "date": "2024-07-13",
+        "date": "2024-07-18",
         "symbol": "AAPL",
-        "open_price": 100.87,
-        "high_price": 104.79,
-        "low_price": 96.0,
-        "close_price": 100.81,
-        "volume": 5753
+        "open_price": 103.37,
+        "high_price": 107.59,
+        "low_price": 103.32,
+        "close_price": 106.16,
+        "volume": 4497
     },
     {
-        "date": "2024-07-06",
+        "date": "2024-07-11",
         "symbol": "AAPL",
-        "open_price": 101.53,
-        "high_price": 103.79,
-        "low_price": 99.84,
-        "close_price": 104.67,
-        "volume": 1342
+        "open_price": 104.23,
+        "high_price": 105.2,
+        "low_price": 98.43,
+        "close_price": 103.4,
+        "volume": 1147
     },
     {
-        "date": "2024-06-29",
+        "date": "2024-07-04",
         "symbol": "AAPL",
-        "open_price": 108.77,
-        "high_price": 109.46,
-        "low_price": 99.53,
-        "close_price": 102.19,
-        "volume": 1069
+        "open_price": 101.43,
+        "high_price": 106.48,
+        "low_price": 97.3,
+        "close_price": 99.78,
+        "volume": 2017
     },
     {
-        "date": "2024-06-22",
+        "date": "2024-06-27",
         "symbol": "AAPL",
-        "open_price": 97.77,
-        "high_price": 99.27,
-        "low_price": 96.47,
-        "close_price": 100.73,
-        "volume": 4738
+        "open_price": 100.54,
+        "high_price": 106.71,
+        "low_price": 90.93,
+        "close_price": 93.96,
+        "volume": 9007
     },
     {
-        "date": "2024-06-15",
+        "date": "2024-06-20",
         "symbol": "AAPL",
-        "open_price": 101.94,
-        "high_price": 103.42,
-        "low_price": 92.68,
-        "close_price": 96.22,
-        "volume": 6008
+        "open_price": 94.55,
+        "high_price": 102.33,
+        "low_price": 92.69,
+        "close_price": 97.28,
+        "volume": 9948
     },
     {
-        "date": "2024-06-08",
+        "date": "2024-06-13",
         "symbol": "AAPL",
-        "open_price": 95.35,
-        "high_price": 100.09,
-        "low_price": 91.42,
-        "close_price": 96.03,
-        "volume": 7495
+        "open_price": 98.83,
+        "high_price": 107.17,
+        "low_price": 91.82,
+        "close_price": 96.06,
+        "volume": 4077
     },
     {
-        "date": "2024-06-01",
+        "date": "2024-06-06",
         "symbol": "AAPL",
-        "open_price": 93.45,
-        "high_price": 96.39,
-        "low_price": 84.12,
-        "close_price": 84.39,
-        "volume": 4208
+        "open_price": 93.05,
+        "high_price": 93.54,
+        "low_price": 91.22,
+        "close_price": 93.41,
+        "volume": 6566
     },
     {
-        "date": "2024-05-25",
+        "date": "2024-05-30",
         "symbol": "AAPL",
-        "open_price": 80.5,
-        "high_price": 85.28,
-        "low_price": 76.28,
-        "close_price": 78.89,
-        "volume": 2674
+        "open_price": 95.5,
+        "high_price": 101.3,
+        "low_price": 90.95,
+        "close_price": 93.83,
+        "volume": 4885
     },
     {
-        "date": "2024-05-18",
+        "date": "2024-05-23",
         "symbol": "AAPL",
-        "open_price": 81.41,
-        "high_price": 84.65,
-        "low_price": 72.09,
-        "close_price": 73.13,
-        "volume": 4588
+        "open_price": 93.01,
+        "high_price": 102.54,
+        "low_price": 91.87,
+        "close_price": 94.12,
+        "volume": 8006
     },
     {
-        "date": "2024-05-11",
+        "date": "2024-05-16",
         "symbol": "AAPL",
-        "open_price": 71.69,
-        "high_price": 75.14,
-        "low_price": 67.53,
-        "close_price": 67.61,
-        "volume": 5774
+        "open_price": 92.18,
+        "high_price": 96.12,
+        "low_price": 90.39,
+        "close_price": 91.89,
+        "volume": 9173
     },
     {
-        "date": "2024-05-04",
+        "date": "2024-05-09",
         "symbol": "AAPL",
-        "open_price": 70.21,
-        "high_price": 73.75,
-        "low_price": 66.59,
-        "close_price": 69.07,
-        "volume": 2497
+        "open_price": 89.13,
+        "high_price": 91.4,
+        "low_price": 80.16,
+        "close_price": 85.0,
+        "volume": 4535
     },
     {
-        "date": "2024-04-27",
+        "date": "2024-05-02",
         "symbol": "AAPL",
-        "open_price": 70.75,
-        "high_price": 70.76,
-        "low_price": 70.51,
-        "close_price": 73.3,
-        "volume": 5397
+        "open_price": 82.41,
+        "high_price": 91.2,
+        "low_price": 78.32,
+        "close_price": 78.5,
+        "volume": 2940
     },
     {
-        "date": "2024-04-20",
+        "date": "2024-04-25",
         "symbol": "AAPL",
-        "open_price": 70.23,
-        "high_price": 74.72,
-        "low_price": 68.49,
-        "close_price": 71.42,
-        "volume": 4989
+        "open_price": 81.27,
+        "high_price": 91.12,
+        "low_price": 74.19,
+        "close_price": 79.05,
+        "volume": 8125
     },
     {
-        "date": "2024-04-13",
+        "date": "2024-04-18",
         "symbol": "AAPL",
-        "open_price": 75.01,
-        "high_price": 81.17,
-        "low_price": 69.15,
-        "close_price": 69.5,
-        "volume": 6022
+        "open_price": 78.4,
+        "high_price": 78.94,
+        "low_price": 74.42,
+        "close_price": 77.63,
+        "volume": 4657
     },
     {
-        "date": "2024-04-06",
+        "date": "2024-04-11",
         "symbol": "AAPL",
-        "open_price": 68.1,
-        "high_price": 69.43,
-        "low_price": 64.52,
-        "close_price": 66.89,
-        "volume": 2808
+        "open_price": 80.76,
+        "high_price": 86.12,
+        "low_price": 76.6,
+        "close_price": 76.63,
+        "volume": 4860
     },
     {
-        "date": "2024-03-30",
+        "date": "2024-04-04",
         "symbol": "AAPL",
-        "open_price": 65.85,
-        "high_price": 69.23,
-        "low_price": 65.09,
-        "close_price": 69.75,
-        "volume": 4827
+        "open_price": 73.56,
+        "high_price": 79.47,
+        "low_price": 73.54,
+        "close_price": 75.14,
+        "volume": 1150
     },
     {
-        "date": "2024-03-23",
+        "date": "2024-03-28",
         "symbol": "AAPL",
-        "open_price": 68.62,
-        "high_price": 78.6,
-        "low_price": 62.58,
-        "close_price": 65.97,
-        "volume": 7026
+        "open_price": 78.21,
+        "high_price": 83.7,
+        "low_price": 69.93,
+        "close_price": 72.43,
+        "volume": 7331
     },
     {
-        "date": "2024-03-16",
+        "date": "2024-03-21",
         "symbol": "AAPL",
-        "open_price": 64.92,
-        "high_price": 66.53,
-        "low_price": 61.83,
-        "close_price": 62.19,
-        "volume": 2214
+        "open_price": 68.8,
+        "high_price": 71.2,
+        "low_price": 58.87,
+        "close_price": 59.27,
+        "volume": 6363
     },
     {
-        "date": "2024-03-09",
+        "date": "2024-03-14",
         "symbol": "AAPL",
-        "open_price": 63.67,
-        "high_price": 69.34,
-        "low_price": 60.48,
-        "close_price": 61.27,
-        "volume": 1282
+        "open_price": 61.62,
+        "high_price": 66.35,
+        "low_price": 55.45,
+        "close_price": 58.85,
+        "volume": 2227
     },
     {
-        "date": "2024-03-02",
+        "date": "2024-03-07",
         "symbol": "AAPL",
-        "open_price": 65.51,
-        "high_price": 73.21,
-        "low_price": 63.42,
-        "close_price": 63.89,
-        "volume": 2530
+        "open_price": 59.57,
+        "high_price": 59.75,
+        "low_price": 53.54,
+        "close_price": 54.14,
+        "volume": 1845
     },
     {
-        "date": "2024-02-24",
+        "date": "2024-02-29",
         "symbol": "AAPL",
-        "open_price": 59.66,
-        "high_price": 60.94,
-        "low_price": 52.55,
-        "close_price": 56.1,
-        "volume": 2912
+        "open_price": 56.93,
+        "high_price": 61.36,
+        "low_price": 51.08,
+        "close_price": 51.16,
+        "volume": 5730
     },
     {
-        "date": "2024-02-17",
+        "date": "2024-02-22",
         "symbol": "AAPL",
-        "open_price": 55.79,
-        "high_price": 63.31,
-        "low_price": 48.98,
-        "close_price": 51.93,
-        "volume": 4281
+        "open_price": 51.36,
+        "high_price": 54.74,
+        "low_price": 47.31,
+        "close_price": 47.33,
+        "volume": 4504
     },
     {
-        "date": "2024-02-10",
+        "date": "2024-02-15",
         "symbol": "AAPL",
-        "open_price": 47.29,
-        "high_price": 53.56,
-        "low_price": 40.44,
-        "close_price": 42.25,
-        "volume": 3415
+        "open_price": 45.51,
+        "high_price": 53.99,
+        "low_price": 39.77,
+        "close_price": 40.91,
+        "volume": 3554
     },
     {
-        "date": "2024-02-03",
+        "date": "2024-02-08",
         "symbol": "AAPL",
-        "open_price": 39.23,
-        "high_price": 40.38,
-        "low_price": 32.11,
-        "close_price": 32.99,
-        "volume": 5263
+        "open_price": 40.65,
+        "high_price": 49.82,
+        "low_price": 33.69,
+        "close_price": 37.9,
+        "volume": 1154
     },
     {
-        "date": "2024-01-27",
+        "date": "2024-02-01",
         "symbol": "AAPL",
-        "open_price": 31.45,
-        "high_price": 38.06,
-        "low_price": 26.98,
-        "close_price": 31.5,
-        "volume": 2861
+        "open_price": 37.29,
+        "high_price": 39.8,
+        "low_price": 33.75,
+        "close_price": 36.48,
+        "volume": 3369
     },
     {
-        "date": "2024-01-20",
+        "date": "2024-01-25",
         "symbol": "AAPL",
-        "open_price": 29.18,
-        "high_price": 31.26,
-        "low_price": 26.67,
-        "close_price": 27.46,
-        "volume": 2248
+        "open_price": 38.52,
+        "high_price": 43.47,
+        "low_price": 38.28,
+        "close_price": 40.91,
+        "volume": 3210
     },
     {
-        "date": "2024-01-13",
+        "date": "2024-01-18",
         "symbol": "AAPL",
-        "open_price": 25.11,
-        "high_price": 31.35,
-        "low_price": 22.38,
-        "close_price": 22.43,
-        "volume": 7771
+        "open_price": 35.92,
+        "high_price": 40.16,
+        "low_price": 33.53,
+        "close_price": 34.39,
+        "volume": 2535
     },
     {
-        "date": "2024-01-06",
+        "date": "2024-01-11",
         "symbol": "AAPL",
-        "open_price": 17.56,
-        "high_price": 23.77,
-        "low_price": 10.08,
-        "close_price": 10.94,
-        "volume": 4473
+        "open_price": 30.67,
+        "high_price": 32.05,
+        "low_price": 24.14,
+        "close_price": 26.2,
+        "volume": 3040
     },
     {
-        "date": "2023-12-30",
+        "date": "2024-01-04",
         "symbol": "AAPL",
-        "open_price": 12.0,
-        "high_price": 21.66,
-        "low_price": 11.17,
-        "close_price": 13.77,
-        "volume": 6296
+        "open_price": 29.59,
+        "high_price": 29.91,
+        "low_price": 26.5,
+        "close_price": 27.49,
+        "volume": 2871
     },
     {
-        "date": "2023-12-23",
+        "date": "2023-12-28",
         "symbol": "AAPL",
-        "open_price": 14.54,
-        "high_price": 15.5,
-        "low_price": 9.15,
-        "close_price": 10.36,
-        "volume": 6641
+        "open_price": 23.54,
+        "high_price": 27.36,
+        "low_price": 21.4,
+        "close_price": 24.1,
+        "volume": 1327
     },
     {
-        "date": "2023-12-16",
+        "date": "2023-12-21",
         "symbol": "AAPL",
-        "open_price": 13.32,
-        "high_price": 16.85,
-        "low_price": 12.76,
-        "close_price": 14.23,
-        "volume": 3754
+        "open_price": 25.95,
+        "high_price": 33.77,
+        "low_price": 17.67,
+        "close_price": 22.14,
+        "volume": 1164
     },
     {
-        "date": "2023-12-09",
+        "date": "2023-12-14",
         "symbol": "AAPL",
-        "open_price": 13.15,
-        "high_price": 21.42,
-        "low_price": 12.81,
-        "close_price": 17.25,
-        "volume": 8110
+        "open_price": 26.36,
+        "high_price": 29.5,
+        "low_price": 25.43,
+        "close_price": 26.54,
+        "volume": 4994
     },
     {
-        "date": "2023-12-02",
+        "date": "2023-12-07",
         "symbol": "AAPL",
-        "open_price": 19.92,
-        "high_price": 24.34,
-        "low_price": 14.71,
+        "open_price": 28.58,
+        "high_price": 35.87,
+        "low_price": 21.89,
+        "close_price": 23.0,
+        "volume": 6787
+    },
+    {
+        "date": "2023-11-30",
+        "symbol": "AAPL",
+        "open_price": 22.4,
+        "high_price": 28.21,
+        "low_price": 13.69,
+        "close_price": 15.44,
+        "volume": 1740
+    },
+    {
+        "date": "2023-11-23",
+        "symbol": "AAPL",
+        "open_price": 17.34,
+        "high_price": 26.95,
+        "low_price": 16.37,
         "close_price": 17.68,
-        "volume": 6130
+        "volume": 1365
     },
     {
-        "date": "2023-11-25",
+        "date": "2023-11-16",
         "symbol": "AAPL",
-        "open_price": 21.29,
-        "high_price": 29.24,
-        "low_price": 17.78,
-        "close_price": 21.95,
-        "volume": 8013
+        "open_price": 17.83,
+        "high_price": 25.33,
+        "low_price": 10.95,
+        "close_price": 15.27,
+        "volume": 9316
     },
     {
-        "date": "2023-11-18",
+        "date": "2023-11-09",
         "symbol": "AAPL",
-        "open_price": 24.93,
-        "high_price": 26.39,
-        "low_price": 15.2,
-        "close_price": 19.79,
-        "volume": 8487
-    },
-    {
-        "date": "2023-11-11",
-        "symbol": "AAPL",
-        "open_price": 23.81,
-        "high_price": 27.21,
-        "low_price": 16.67,
-        "close_price": 20.8,
-        "volume": 4148
-    },
-    {
-        "date": "2023-11-04",
-        "symbol": "AAPL",
-        "open_price": 19.94,
-        "high_price": 25.1,
+        "open_price": 14.08,
+        "high_price": 17.33,
         "low_price": 12.82,
-        "close_price": 14.59,
-        "volume": 8031
+        "close_price": 15.06,
+        "volume": 4137
     }
 ]

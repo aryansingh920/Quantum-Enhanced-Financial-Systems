@@ -113,8 +113,7 @@ def update_plot(frame):
     def update_annot(ind):
         x, y = times[ind[0]], prices[ind[0]]
         annot.xy = (mdates.date2num(x), y)
-        text = f"Time: {x.strftime('%Y-%m-%d %H:%M:%S')}\nPrice: ${y}\nVolume: {
-            volumes[ind[0]]}\nPrice Change: {price_changes[ind[0]]}"
+        text = f"Time: {x.strftime('%Y-%m-%d %H:%M:%S')}\nPrice: ${y}\nVolume: {volumes[ind[0]]}\nPrice Change: {price_changes[ind[0]]}"
         annot.set_text(text)
         annot.get_bbox_patch().set_alpha(0.4)
 

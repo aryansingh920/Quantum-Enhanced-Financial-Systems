@@ -1,27 +1,19 @@
-# # from qiskit import QuantumCircuit, Aer, execute
-# from qiskit import QuantumCircuit, execute
-# from qiskit_aer import Aer
+from qiskit import QuantumCircuit
+from qiskit_aer import AerSimulator
 
-# # Create a simple quantum circuit
-# qc = QuantumCircuit(2, 2)
-# qc.h(0)
-# qc.cx(0, 1)
-# qc.measure([0, 1], [0, 1])
+# Create a quantum circuit
+qc = QuantumCircuit(2, 2)  # 2 qubits and 2 classical bits
+qc.h(0)        # Hadamard gate on qubit 0
+qc.cx(0, 1)    # CNOT gate with control qubit 0 and target qubit 1
+qc.measure_all()  # Measure all qubits
 
-# # Run the circuit on the qasm simulator
-# simulator = Aer.get_backend('qasm_simulator')
-# result = execute(qc, simulator).result()
-# counts = result.get_counts()
+# Create a simulator
+simulator = AerSimulator()
 
-# print("Result of the circuit:", counts)
-from qiskit import QuantumCircuit, execute, BasicAer
+# Run the circuit
+job = simulator.run(qc, shots=1000)
+result = job.result()
 
-# Create a simple quantum circuit
-qc = QuantumCircuit(1, 1)
-qc.h(0)
-qc.measure(0, 0)
-
-# Run the circuit on the BasicAer simulator
-simulator = BasicAer.get_backend('qasm_simulator')
-result = execute(qc, simulator).result()
-print("Test Result:", result.get_counts())
+# Get the counts of measurement outcomes
+counts = result.get_counts(qc)
+print("Measurement counts:", counts)
